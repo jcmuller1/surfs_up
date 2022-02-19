@@ -11,7 +11,7 @@ The purpose of this analysis was to dive into temperatures on Oahu in June and D
 - December temperatures vary slightly more than June temperatures, as shown by the higher standard deviation in December
 - December is roughly 4 degrees cooler than June on average
   - The maximum temperatures are the most similar, while minimum temperatures have a bigger gap
-- Overall, temperatures in December and June are much more similar in Oahu than they would be in most other parts of the USA
+- The difference between maximum and minimum temperature is very similar for June (22 degrees) and December (24 degrees)
 
 ## Summary
 
